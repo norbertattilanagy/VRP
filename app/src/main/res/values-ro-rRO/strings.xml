@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VRP</string>
+    <string name="new_problem">Problemă Nouă</string>
+    <string name="saved_problems">Probleme Salvate</string>
+    <string name="vehicle_capacity">Capacitate Vehicul</string>
+    <string name="add_location">Adaugă Locație</string>
+    <string name="depot_coordinate_x">Depozit Coordonata  X</string>
+    <string name="depot_coordinate_y">Depozit Coordonata  Y</string>
+    <string name="save">Salvează</string>
+    <string name="location_coordinate_x">Locație Coordonata  X</string>
+    <string name="location_coordinate_y">Locație Coordonata  Y</string>
+    <string name="location_name">Nume Locație</string>
+    <string name="requested_quantity">Cantitatea Solicitata</string>
+    <string name="coordinate">Coordonate</string>
+    <string name="view">Vizualizează</string>
+    <string name="depot">Depozit</string>
+    <string name="problem_name">Nume Problemă</string>
+    <string name="update">Actualizează</string>
+    <string name="delete">Șterge</string>
+    <string name="delete_problem">Doriți să ștergeți problema?</string>
+    <string name="cancel">Anulare</string>
+    <string name="add">Adaugă</string>
+</resources>

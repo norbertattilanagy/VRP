@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VRP</string>
+    <string name="new_problem">New Problem</string>
+    <string name="saved_problems">Saved Problems</string>
+    <string name="vehicle_capacity">Vehicle Capacity</string>
+    <string name="add_location">Add Location</string>
+    <string name="depot_coordinate_x">Warehouse Coordonate X</string>
+    <string name="depot_coordinate_y">Warehouse Coordonate Y</string>
+    <string name="save">Save</string>
+    <string name="location_coordinate_x">Location Coordinate X</string>
+    <string name="location_coordinate_y">Location Coordinate Y</string>
+    <string name="location_name">Location Name</string>
+    <string name="requested_quantity">Requested Quantity</string>
+    <string name="coordinate">Coordinates</string>
+    <string name="view">View</string>
+    <string name="depot">Warehouse</string>
+    <string name="problem_name">Problem Name</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="delete_problem">Do you want delete the problem?</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
